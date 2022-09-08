@@ -1,0 +1,132 @@
+.anime_trailer1, .anime_trailer2, .anime_trailer3, .anime_trailer4, .anime_trailer5, .anime_trailer6, .anime_trailer7, .anime_trailer8, .anime_trailer9, .anime_trailer10{
+    position: fixed;
+    width: 1080px;
+    height: 650px;
+    z-index: 9999;
+    top: 170px;
+    left: 400px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s;
+}
+.anime_trailer11, .anime_trailer12, .anime_trailer13, .anime_trailer14, .anime_trailer15, .anime_trailer16, .anime_trailer17, .anime_trailer18, .anime_trailer19, .anime_trailer20{
+    position: fixed;
+    width: 1080px;
+    height: 650px;
+    z-index: 9999;
+    top: 170px;
+    left: 400px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s;
+}
+.anime_trailer21, .anime_trailer22, .anime_trailer23, .anime_trailer24, .anime_trailer25, .anime_trailer26, .anime_trailer27, .anime_trailer28, .anime_trailer29, .anime_trailer30{
+    position: fixed;
+    width: 1080px;
+    height: 650px;
+    z-index: 9999;
+    top: 170px;
+    left: 400px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s;
+}
+.anime_trailer31, .anime_trailer32, .anime_trailer33, .anime_trailer34, .anime_trailer35, .anime_trailer36, .anime_trailer37, .anime_trailer38, .anime_trailer39, .anime_trailer40{
+    position: fixed;
+    width: 1080px;
+    height: 650px;
+    z-index: 9999;
+    top: 170px;
+    left: 400px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .3s;
+}
+.anime_trailer1 .close1, .anime_trailer2 .close2, .anime_trailer3 .close3, .anime_trailer4 .close4, .anime_trailer5 .close5, .anime_trailer6 .close6, .anime_trailer7 .close7, .anime_trailer8 .close8, .anime_trailer9 .close9, .anime_trailer10 .close10{
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+    left: 1060px;
+    top: -2px;
+    z-index: 99999;
+    cursor: pointer;
+}
+.anime_trailer11 .close11, .anime_trailer12 .close12, .anime_trailer13 .close13, .anime_trailer14 .close14, .anime_trailer15 .close15, .anime_trailer16 .close16, .anime_trailer17 .close17, .anime_trailer18 .close18, .anime_trailer19 .close19, .anime_trailer20 .close20{
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+    left: 1060px;
+    top: -2px;
+    z-index: 99999;
+    cursor: pointer;
+}
+.anime_trailer21 .close21, .anime_trailer22 .close22, .anime_trailer23 .close23, .anime_trailer24 .close24, .anime_trailer25 .close25, .anime_trailer26 .close26, .anime_trailer27 .close27, .anime_trailer28 .close28, .anime_trailer29 .close29, .anime_trailer30 .close30{
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+    left: 1060px;
+    top: -2px;
+    z-index: 99999;
+    cursor: pointer;
+}
+.anime_trailer31 .close31, .anime_trailer32 .close32, .anime_trailer33 .close33, .anime_trailer34 .close34, .anime_trailer35 .close35, .anime_trailer36 .close36, .anime_trailer37 .close37, .anime_trailer38 .close38, .anime_trailer39 .close39, .anime_trailer40 .close40{
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+    left: 1060px;
+    top: -2px;
+    z-index: 99999;
+    cursor: pointer;
+}
+.anime_trailer1 .video1, .anime_trailer2 .video2, .anime_trailer3 .video3, .anime_trailer4 .video4, .anime_trailer5 .video5, .anime_trailer6 .video6, .anime_trailer7 .video7, .anime_trailer8 .video8, .anime_trailer9 .video9, .anime_trailer10 .video10{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.anime_trailer11 .video11, .anime_trailer12 .video12, .anime_trailer13 .video13, .anime_trailer14 .video14, .anime_trailer15 .video15, .anime_trailer16 .video16, .anime_trailer17 .video17, .anime_trailer18 .video18, .anime_trailer19 .video19, .anime_trailer20 .video20{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.anime_trailer21 .video21, .anime_trailer22 .video22, .anime_trailer23 .video23, .anime_trailer24 .video24, .anime_trailer25 .video25, .anime_trailer26 .video26, .anime_trailer27 .video27, .anime_trailer28 .video28, .anime_trailer29 .video29, .anime_trailer30 .video30{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.anime_trailer31 .video31, .anime_trailer32 .video32, .anime_trailer33 .video33, .anime_trailer34 .video34, .anime_trailer35 .video35, .anime_trailer36 .video36, .anime_trailer37 .video37, .anime_trailer38 .video38, .anime_trailer39 .video39, .anime_trailer40 .video40{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.anime_trailer1.show1, .anime_trailer2.show2, .anime_trailer3.show3, .anime_trailer4.show4, .anime_trailer5.show5, .anime_trailer6.show6, .anime_trailer7.show7, .anime_trailer8.show8, .anime_trailer9.show9, .anime_trailer10.show10{
+    pointer-events: all;
+    opacity: 1;
+}
+.anime_trailer11.show11, .anime_trailer12.show12, .anime_trailer13.show13, .anime_trailer14.show14, .anime_trailer15.show15, .anime_trailer16.show16, .anime_trailer17.show17, .anime_trailer18.show18, .anime_trailer19.show19, .anime_trailer20.show20{
+    pointer-events: all;
+    opacity: 1;
+}
+.anime_trailer21.show21, .anime_trailer22.show22, .anime_trailer23.show23, .anime_trailer24.show24, .anime_trailer25.show25, .anime_trailer26.show26, .anime_trailer27.show27, .anime_trailer28.show28, .anime_trailer29.show29, .anime_trailer30.show30{
+    pointer-events: all;
+    opacity: 1;
+}
+.anime_trailer31.show31, .anime_trailer32.show32, .anime_trailer33.show33, .anime_trailer34.show34, .anime_trailer35.show35, .anime_trailer36.show36, .anime_trailer37.show37, .anime_trailer38.show38, .anime_trailer39.show39, .anime_trailer40.show40{
+    pointer-events: all;
+    opacity: 1;
+}
+.anime_trailer1.show1 .video1, .anime_trailer2.show2 .video2, .anime_trailer3.show3 .video3, .anime_trailer4.show4 .video4, .anime_trailer5.show5 .video5, .anime_trailer6.show6 .video6, .anime_trailer7.show7 .video7, .anime_trailer8.show8 .video8, .anime_trailer9.show9 .video9, .anime_trailer10.show10 .video10{
+    transform: scale(1);
+}
+.anime_trailer11.show11 .video11, .anime_trailer12.show12 .video12, .anime_trailer13.show13 .video13, .anime_trailer14.show14 .video14, .anime_trailer15.show15 .video15, .anime_trailer16.show16 .video16, .anime_trailer17.show17 .video17, .anime_trailer18.show18 .video18, .anime_trailer19.show19 .video19, .anime_trailer20.show20 .video20{
+    transform: scale(1);
+}
+.anime_trailer21.show21 .video21, .anime_trailer22.show22 .video22, .anime_trailer23.show23 .video23, .anime_trailer24.show24 .video24, .anime_trailer25.show25 .video25, .anime_trailer26.show26 .video26, .anime_trailer27.show27 .video27, .anime_trailer28.show28 .video28, .anime_trailer29.show29 .video29, .anime_trailer30.show30 .video30{
+    transform: scale(1);
+}
+.anime_trailer31.show31 .video31, .anime_trailer32.show32 .video32, .anime_trailer33.show33 .video33, .anime_trailer34.show34 .video34, .anime_trailer35.show35 .video35, .anime_trailer36.show36 .video36, .anime_trailer37.show37 .video37, .anime_trailer38.show38 .video38, .anime_trailer39.show39 .video39, .anime_trailer40.show40 .video40{
+    transform: scale(1);
+}
