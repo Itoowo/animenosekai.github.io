@@ -212,7 +212,7 @@ body{
     top: 50%;
 }
 .main-content{
-    width: 95%;
+    width: 1200px;
     height: 3450px;
     left: 85px;
     position: relative;
@@ -222,7 +222,7 @@ body{
 
 /* swiper start*/
 .swiper {
-    width: 100%;
+    width: 1200px;
     margin: auto;
     height: 600px;
   }
@@ -371,77 +371,77 @@ body{
 }
 .smallboxa1 .drop-out1{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 250px;
     left: 120px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxa2 .drop-out2{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 250px;
-    left: 400px;
+    left: 300px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxa3 .drop-out3{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 250px;
-    left: 670px;
+    left: 470px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxa4 .drop-out4{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 250px;
-    left: 950px;
+    left: 650px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxa5 .drop-out5{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 250px;
-    left: 1230px;
+    left: 830px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxa1:hover .drop-out1{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxa2:hover .drop-out2{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxa3:hover .drop-out3{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxa4:hover .drop-out4{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxa5:hover .drop-out5{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxa1 .anime-cover, .smallboxa2 .anime-cover, .smallboxa3 .anime-cover, .smallboxa4 .anime-cover, .smallboxa5 .anime-cover{
@@ -815,77 +815,77 @@ body{
 }
 .smallboxb1 .drop-out1{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 650px;
     left: 120px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxb2 .drop-out2{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 650px;
-    left: 400px;
+    left: 300px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxb3 .drop-out3{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 650px;
-    left: 670px;
+    left: 470px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxb4 .drop-out4{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 650px;
-    left: 950px;
+    left: 650px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxb5 .drop-out5{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 650px;
-    left: 1230px;
+    left: 830px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxb1:hover .drop-out1{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxb2:hover .drop-out2{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxb3:hover .drop-out3{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxb4:hover .drop-out4{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxb5:hover .drop-out5{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxb1 .anime-cover, .smallboxb2 .anime-cover, .smallboxb3 .anime-cover, .smallboxb4 .anime-cover, .smallboxb5 .anime-cover{
@@ -1275,77 +1275,77 @@ body{
 }
 .smallboxc1 .drop-out1{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1150px;
     left: 120px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxc2 .drop-out2{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1150px;
-    left: 400px;
+    left: 300px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxc3 .drop-out3{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1150px;
-    left: 670px;
+    left: 470px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxc4 .drop-out4{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1150px;
-    left: 950px;
+    left: 650px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxc5 .drop-out5{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1150px;
-    left: 1230px;
+    left: 830px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxc1:hover .drop-out1{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxc2:hover .drop-out2{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxc3:hover .drop-out3{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxc4:hover .drop-out4{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxc5:hover .drop-out5{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxc1 .anime-cover, .smallboxc2 .anime-cover, .smallboxc3 .anime-cover, .smallboxc4 .anime-cover, .smallboxc5 .anime-cover{
@@ -1693,77 +1693,77 @@ body{
 }
 .smallboxd1 .drop-out1{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1550px;
     left: 120px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxd2 .drop-out2{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1550px;
-    left: 400px;
+    left: 300px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxd3 .drop-out3{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1550px;
-    left: 670px;
+    left: 470px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxd4 .drop-out4{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1550px;
-    left: 950px;
+    left: 650px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxd5 .drop-out5{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 1550px;
-    left: 1230px;
+    left: 830px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxd1:hover .drop-out1{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxd2:hover .drop-out2{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxd3:hover .drop-out3{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxd4:hover .drop-out4{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxd5:hover .drop-out5{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxd1 .anime-cover, .smallboxd2 .anime-cover, .smallboxd3 .anime-cover, .smallboxd4 .anime-cover, .smallboxd5 .anime-cover{
@@ -2126,77 +2126,77 @@ body{
 }
 .smallboxe1 .drop-out1{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2050px;
     left: 120px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxe2 .drop-out2{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2050px;
-    left: 400px;
+    left: 300px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxe3 .drop-out3{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2050px;
-    left: 670px;
+    left: 470px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxe4 .drop-out4{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2050px;
-    left: 950px;
+    left: 650px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxe5 .drop-out5{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2050px;
-    left: 1230px;
+    left: 830px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxe1:hover .drop-out1{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxe2:hover .drop-out2{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxe3:hover .drop-out3{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxe4:hover .drop-out4{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxe5:hover .drop-out5{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxe1 .anime-cover, .smallboxe2 .anime-cover, .smallboxe3 .anime-cover, .smallboxe4 .anime-cover, .smallboxe5 .anime-cover{
@@ -2544,77 +2544,77 @@ body{
 }
 .smallboxf1 .drop-out1{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2550px;
     left: 120px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxf2 .drop-out2{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2550px;
-    left: 400px;
+    left: 300px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxf3 .drop-out3{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2550px;
-    left: 670px;
+    left: 470px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxf4 .drop-out4{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2550px;
-    left: 950px;
+    left: 650px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxf5 .drop-out5{
     position: absolute;
-    width: 17%;
+    width: 25%;
     height: 12%;
     top: 2550px;
-    left: 1230px;
+    left: 830px;
     background-color: rgb(56, 57, 61);
     border-radius: 10px;
-    opacity: 0;
+    display: none;
     z-index: 999;
 }
 .smallboxf1:hover .drop-out1{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxf2:hover .drop-out2{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxf3:hover .drop-out3{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxf4:hover .drop-out4{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxf5:hover .drop-out5{
-    opacity: 1;
+    display: block;
     transition: .5s;
 }
 .smallboxf1 .anime-cover, .smallboxf2 .anime-cover, .smallboxf3 .anime-cover, .smallboxf4 .anime-cover, .smallboxf5 .anime-cover{
@@ -3433,7 +3433,7 @@ body{
 }
 .name-pf .pf1{
     width: 30%;
-    height: 70px;
+    height: 50px;
     border-radius: 50%;
 }
 .pf1 img{
@@ -3506,9 +3506,9 @@ body{
 /* rightside */
 /* footer */
 .footer{
-    width: 96.5%;
+    width: 1320px;
     margin-left: 3.5%;
-    height: 300px;
+    height: 400px;
     background-color: rgba(48, 48, 48, 0.575);
     position: absolute;
     display: flex;
@@ -3540,6 +3540,8 @@ body{
 .footer .aboutweb{
     width: 35%;
     height: 280px;
+    position: relative;
+    left: 70px;
 }
 .aboutweb h1{
     color: white;
