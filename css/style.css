@@ -214,7 +214,8 @@ body{
 .main-content{
     width: 1200px;
     height: 3450px;
-    left: 85px;
+    left: 35px;
+    margin: auto;
     position: relative;
     transition: all 0.5s ease;
 }
@@ -300,6 +301,7 @@ body{
     font-weight: 400;
     font-size: 15px;
     margin-top: 20px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .swipershade a button{
     width: 12%;
@@ -515,7 +517,7 @@ body{
 }
 .border-text2 p{
     color: grey;
-    margin-top: 60px;
+    margin-top: 30px;
     padding-left: 10px;
     font-size: 12px;
     font-weight: 300;
@@ -550,12 +552,14 @@ body{
     position: relative;
     left: 210px;
     top: -37px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out1 h2{
     color: white;
     font-size: 13px;
     font-weight: 300;
     padding-left: 10px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out1 h3{
     color: white;
@@ -605,12 +609,14 @@ body{
     position: relative;
     left: 210px;
     top: -37px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out2 h2{
     color: white;
     font-size: 13px;
     font-weight: 300;
     padding-left: 10px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out2 h3{
     color: white;
@@ -660,12 +666,14 @@ body{
     position: relative;
     left: 210px;
     top: -37px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out3 h2{
     color: white;
     font-size: 13px;
     font-weight: 300;
     padding-left: 10px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out3 h3{
     color: white;
@@ -715,12 +723,14 @@ body{
     position: relative;
     left: 210px;
     top: -37px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out4 h2{
     color: white;
     font-size: 13px;
     font-weight: 300;
     padding-left: 10px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out4 h3{
     color: white;
@@ -770,12 +780,14 @@ body{
     position: relative;
     left: 210px;
     top: -37px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out5 h2{
     color: white;
     font-size: 13px;
     font-weight: 300;
     padding-left: 10px;
+    font-family: 'Noto Sans Khmer', sans-serif;
 }
 .drop-out5 h3{
     color: white;
@@ -959,7 +971,7 @@ body{
 }
 .border-text2 p{
     color: grey;
-    margin-top: 60px;
+    margin-top: 30px;
     padding-left: 10px;
     font-size: 12px;
     font-weight: 300;
@@ -3506,125 +3518,117 @@ body{
 /* rightside */
 /* footer */
 .footer{
-    width: 1320px;
-    margin-left: 3.5%;
-    height: 400px;
+    width: 100%;
+    height: 70px;
     background-color: rgba(48, 48, 48, 0.575);
-    position: absolute;
+    margin-top: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    font-family: 'Dosis', sans-serif;
-    font-family: 'Noto Sans Khmer', sans-serif;
 }
-/* maps */
-.footer .maps{
-    width: 20%;
-    height: 280px;
-    margin-left: 4px;
-    margin-top: 14px;
-}
-.maps h1{
-    color: white;
-    font-size: 20px;
+.footer p{
     text-align: center;
-}
-.maps iframe{
-    width: 100%;
-    height: 80%;
-    margin-top: 10px;
-    object-fit: cover;
-}
-/* maps */
-/* aboutweb */
-.footer .aboutweb{
-    width: 35%;
-    height: 280px;
-    position: relative;
-    left: 70px;
-}
-.aboutweb h1{
     color: white;
-    font-size: 20px;
-    text-align: center;
-}
-.aboutweb p{
-    color: white;
-    font-size: 13px;
-    margin-top: 20px;
-    font-weight: 300;
-}
-/* aboutweb */
-/* contacts */
-.footer .contacts{
-    width: 35%;
-    height: 280px;
-}
-.contacts h1{
-    color: white;
-    font-size: 20px;
-    text-align: center;
-}
-.contacts .email-animate{
-    color: white;
-    width: 60%;
-    height: 60px;
-    margin-top: 50px;
-    margin-left: 150px;
-    display: flex;
-    justify-content: space-between;
-}
-.email-animate .animated1{
-    width: 20%;
-    height: 100%;
-}
-.animated1 img{
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-}
-.email-animate .email1{
-    width: 77%;
-    height: 100%;
-}
-.email1 h1{
-    font-size: 15px;
-    font-weight: 300;
-    text-align: left;
-    margin-top: 20px;
-}
-.contacts .facebook-animate{
-    color: white;
-    width: 60%;
-    height: 60px;
-    margin-top: 50px;
-    margin-left: 150px;
-    display: flex;
-    justify-content: space-between;
-}
-.facebook-animate .animated2{
-    width: 20%;
-    height: 100%;
-}
-.animated2 img{
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-}
-.facebook-animate .facebook1{
-    width: 77%;
-    height: 100%;
-}
-.facebook1 .facebook2{
-    font-size: 15px;
-    font-weight: 300;
-    color: #fff;
-}
-.facebook2 h1{
-    font-size: 15px;
-    font-weight: 300;
-    text-align: left;
-    margin-top: 20px;
 }
 /* contacts */
 /* footer */
+.bg-modal{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    display: none;
+}
+.bg-modals{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    display: none;
+}
+.modal-content{
+    width: 500px;
+    height: 300px;
+    background-color: gray;
+    border-radius: 4px;
+    top: 300px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+.modal-contents{
+    width: 800px;
+    height: 650px;
+    background-color: gray;
+    border-radius: 4px;
+    top: 300px;
+    padding: 20px;
+    position: relative;
+    font-family: 'Noto Sans Khmer', sans-serif;
+}
+.modal-contents h1{
+    text-align: center;
+}
+.modal-contents h2{
+    text-align: center;
+}
+.modal-contents a{
+    display: flex;
+    color: black;
+    text-decoration: none;
+}
+.modal-contents a p{
+    text-decoration: underline;
+}
+.gmap{
+    width: 840px;
+    height: 240px;
+    margin-top: 24px;
+    margin-left: -20px;
+}
+.gmap iframe{
+    width: 100%;
+    height: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    object-fit: cover;
+}
+.modal-content img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.modal-content input{
+    width: 50%;
+    height: 30px;
+    display: block;
+    margin: 15px auto;
+    font-family: 'Poppins', sans-serif;
+}
+.close-btn{
+    position: absolute;
+    top: 0;
+    right: 14px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+.close-btns{
+    position: absolute;
+    top: 0;
+    right: 14px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
